@@ -1,0 +1,13 @@
+D:\Zealand\3RD SEMESTER\Programming\SharedCalculator\bin\Debug\net5.0\SharedCalculator.deps.json
+D:\Zealand\3RD SEMESTER\Programming\SharedCalculator\bin\Debug\net5.0\SharedCalculator.dll
+D:\Zealand\3RD SEMESTER\Programming\SharedCalculator\bin\Debug\net5.0\ref\SharedCalculator.dll
+D:\Zealand\3RD SEMESTER\Programming\SharedCalculator\bin\Debug\net5.0\SharedCalculator.pdb
+D:\Zealand\3RD SEMESTER\Programming\SharedCalculator\obj\Debug\net5.0\SharedCalculator.csproj.AssemblyReference.cache
+D:\Zealand\3RD SEMESTER\Programming\SharedCalculator\obj\Debug\net5.0\SharedCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zealand\3RD SEMESTER\Programming\SharedCalculator\obj\Debug\net5.0\SharedCalculator.AssemblyInfoInputs.cache
+D:\Zealand\3RD SEMESTER\Programming\SharedCalculator\obj\Debug\net5.0\SharedCalculator.AssemblyInfo.cs
+D:\Zealand\3RD SEMESTER\Programming\SharedCalculator\obj\Debug\net5.0\SharedCalculator.csproj.CoreCompileInputs.cache
+D:\Zealand\3RD SEMESTER\Programming\SharedCalculator\obj\Debug\net5.0\SharedCalculator.dll
+D:\Zealand\3RD SEMESTER\Programming\SharedCalculator\obj\Debug\net5.0\ref\SharedCalculator.dll
+D:\Zealand\3RD SEMESTER\Programming\SharedCalculator\obj\Debug\net5.0\SharedCalculator.pdb
+D:\Zealand\3RD SEMESTER\Programming\SharedCalculator\bin\Debug\net5.0\SharedCalculator.xml

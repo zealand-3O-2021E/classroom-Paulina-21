@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SharedCalculator</name>
+    </assembly>
+    <members>
+        <member name="T:SharedCalculator.Calculator">
+            <summary>
+            This is the Calculator with its methods
+            </summary>
+        </member>
+        <member name="M:SharedCalculator.Calculator.Addition(System.Double,System.Double)">
+            <summary>
+            Adds two variables (a,b)
+            </summary>
+            <param name="a">first variable (double)</param>
+            <param name="b">second variable (double)</param>
+            <returns></returns>
+        </member>
+        <member name="M:SharedCalculator.Calculator.Subtraction(System.Double,System.Double)">
+            <summary>
+            Subtracts variable 'a' from 'b'
+            </summary>
+            <param name="a">first variable (double)</param>
+            <param name="b">second variable (double)</param>
+            <returns></returns>
+        </member>
+        <member name="M:SharedCalculator.Calculator.Multiply(System.Double,System.Double)">
+            <summary>
+            Multiplies two variables (a,b)
+            </summary>
+            <param name="a">first variable (double)</param>
+            <param name="b">second variable (double)</param>
+            <returns></returns>
+        </member>
+        <member name="M:SharedCalculator.Calculator.Division(System.Double,System.Double)">
+            <summary>
+            Divides variable b from a
+            </summary>
+            <param name="a">first variable (double)</param>
+            <param name="b">second variable (double)</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
